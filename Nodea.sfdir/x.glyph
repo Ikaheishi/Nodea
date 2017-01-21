@@ -1,0 +1,24 @@
+StartChar: x
+Encoding: 120 120 19
+Width: 524
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+320 248 m 2
+ 499 -3 l 1
+ 386 -3 l 1
+ 263 172 l 1
+ 141 -3 l 1
+ 25 -3 l 1
+ 205 248 l 1
+ 25 500 l 1
+ 141 500 l 1
+ 263 325 l 1
+ 386 500 l 1
+ 499 500 l 1
+ 320 248 l 2
+EndSplineSet
+Validated: 1
+EndChar

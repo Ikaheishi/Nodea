@@ -1,0 +1,23 @@
+StartChar: semicolon
+Encoding: 59 59 30
+Width: 150
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+25 250 m 7
+ 25 275 50 300 75 300 c 7
+ 100 300 125 275 125 250 c 7
+ 125 225 100 200 75 200 c 7
+ 50 200 25 225 25 250 c 7
+25 50 m 3
+ 25 77 48 100 75 100 c 3
+ 102 100 125 77 125 50 c 3
+ 125 -11 117 -24 77 -51 c 1
+ 63 -35 l 1
+ 71 -27 75 -19 75 0 c 1
+ 48 0 25 23 25 50 c 3
+EndSplineSet
+Validated: 1
+EndChar
