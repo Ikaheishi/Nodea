@@ -1,5 +1,5 @@
-StartChar: uni240B
-Encoding: 9227 9227 382
+StartChar: uni2415
+Encoding: 9237 9237 440
 Width: 512
 VWidth: 243
 Flags: HW
@@ -17,6 +17,7 @@ SplineSet
  478 433 l 5
  36 433 l 5
 EndSplineSet
-Refer: 64 84 N 0.25 0 0 0.25 261.5 244 2
-Refer: 50 86 N 0.25 0 0 0.25 118.5 244 2
+Refer: 411 75 N 0.25 0 0 0.25 345.25 243.75 2
+Refer: 55 65 N 0.25 0 0 0.25 187 243.75 2
+Refer: 413 78 N 0.25 0 0 0.25 35.5 243.75 2
 EndChar
