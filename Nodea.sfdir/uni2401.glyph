@@ -2,7 +2,7 @@ StartChar: uni2401
 Encoding: 9217 9217 432
 Width: 512
 VWidth: 244
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
