@@ -1,0 +1,23 @@
+StartChar: uni2403
+Encoding: 9219 9219 384
+Width: 480
+VWidth: 243
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+24.5 452 m 1
+ 455.5 452 l 1
+ 455.5 194 l 1
+ 24.5 194 l 1
+ 24.5 452 l 1
+44.5 433 m 1
+ 44.5 215 l 1
+ 438.5 215 l 1
+ 438.5 433 l 1
+ 44.5 433 l 1
+EndSplineSet
+Refer: 63 88 N 0.25 0 0 0.25 277.75 243.75 2
+Refer: 64 84 N 0.25 0 0 0.25 157.25 243.75 2
+Refer: 128 69 N 0.25 0 0 0.25 51.75 243.75 2
+EndChar
