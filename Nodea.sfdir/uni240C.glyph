@@ -17,6 +17,7 @@ SplineSet
  478 433 l 5
  36 433 l 5
 EndSplineSet
-Refer: 129 70 N 0.25 0 0 0.25 250.5 244 2
-Refer: 129 70 N 0.25 0 0 0.25 150.5 244 2
+Refer: 129 70 N 0.25 0 0 0.25 250 244 2
+Refer: 129 70 N 0.25 0 0 0.25 150 244 2
+Validated: 524289
 EndChar

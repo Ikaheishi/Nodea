@@ -2,7 +2,7 @@ StartChar: t
 Encoding: 116 116 23
 Width: 363
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -10 85<229.293 316.109> 450 80<50 121 213 332> 680 20G<121 213>
 VStem: 121 92<90.4062 450 530 700>
 LayerCount: 2
@@ -26,4 +26,5 @@ SplineSet
  213 450 l 1
  213 154 l 2
 EndSplineSet
+Validated: 1
 EndChar

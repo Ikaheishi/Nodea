@@ -2,7 +2,7 @@ StartChar: dotlessi
 Encoding: 305 305 89
 Width: 181
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<44 137> 481 20G<44 137>
 VStem: 44 93<0 501>
 LayerCount: 2
@@ -14,4 +14,5 @@ SplineSet
  137 501 l 1
  137 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
