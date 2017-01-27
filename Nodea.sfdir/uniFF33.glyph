@@ -1,8 +1,8 @@
 StartChar: uniFF33
 Encoding: 65331 65331 586
-Width: 491
+Width: 486
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 416 83 N 1 0 0 1 -2.5 0 3

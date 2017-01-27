@@ -6,16 +6,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-450 189.072965006 m 1
+450 189 m 1
  450 650 l 1
  556 650 l 1
  556 0 l 1
  450 0 l 1
- 156 460.926740709 l 1
+ 156 461 l 1
  156 0 l 1
  50 0 l 1
  50 650 l 1
  156 650 l 1
- 450 189.072965006 l 1
+ 450 189 l 1
 EndSplineSet
 EndChar

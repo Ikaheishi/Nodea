@@ -1,10 +1,10 @@
 StartChar: Sacute
 Encoding: 346 346 663
-Width: 491
+Width: 486
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 53 769 N 1 0 0 1 563 134 2
+Refer: 53 769 N 1 0 0 1 558 134 2
 Refer: 416 83 N 1 0 0 1 0 0 3
 EndChar

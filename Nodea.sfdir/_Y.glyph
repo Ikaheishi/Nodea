@@ -1,20 +1,20 @@
 StartChar: Y
 Encoding: 89 89 65
-Width: 562
+Width: 550
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-329 254 m 1
- 329 0 l 1
- 233 0 l 1
- 233 254 l 1
- 50 650 l 1
- 148 650 l 1
- 281 356 l 1
- 409 650 l 1
- 512 650 l 1
- 329 254 l 1
+323 254 m 1
+ 323 0 l 1
+ 227 0 l 1
+ 227 254 l 1
+ 44 650 l 1
+ 142 650 l 1
+ 275 356 l 1
+ 403 650 l 1
+ 506 650 l 1
+ 323 254 l 1
 EndSplineSet
 EndChar
