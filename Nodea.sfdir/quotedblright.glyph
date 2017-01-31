@@ -2,7 +2,8 @@ StartChar: quotedblright
 Encoding: 8221 8221 35
 Width: 212
 VWidth: 0
-Flags: HW
+Flags: W
+VStem: 50 50<679.812 700> 162 50<679.812 700>
 LayerCount: 2
 Fore
 SplineSet

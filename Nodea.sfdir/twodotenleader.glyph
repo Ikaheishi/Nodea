@@ -2,7 +2,9 @@ StartChar: twodotenleader
 Encoding: 8229 8229 38
 Width: 250
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 100<8.70117 91.2988 158.701 241.299>
+VStem: 0 100<8.70117 91.2988> 150 100<8.70117 91.2988>
 LayerCount: 2
 Fore
 SplineSet

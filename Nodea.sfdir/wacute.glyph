@@ -2,7 +2,8 @@ StartChar: wacute
 Encoding: 7811 7811 261
 Width: 692
 VWidth: 0
-Flags: H
+HStem: 0 21G<246.741 265.184 426.816 445.259> 479 20G<25 132.204 205 312.011 375.209 487 555.142 667> 576 198
+VStem: 326 195
 LayerCount: 2
 Fore
 Refer: 53 769 N 1 0 0 1 671 -14 2

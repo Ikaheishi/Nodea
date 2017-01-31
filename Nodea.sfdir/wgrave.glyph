@@ -2,7 +2,8 @@ StartChar: wgrave
 Encoding: 7809 7809 259
 Width: 692
 VWidth: 0
-Flags: H
+HStem: 0 21G<246.741 265.184 426.816 445.259> 479 20G<25 132.204 205 312.011 375.209 487 555.142 667> 576 196
+VStem: 170 197
 LayerCount: 2
 Fore
 Refer: 54 768 N 1 0 0 1 517 -15 2

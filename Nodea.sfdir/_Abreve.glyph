@@ -2,7 +2,9 @@ StartChar: Abreve
 Encoding: 258 258 117
 Width: 634
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<50 148.293 479.951 584> 164 96<248 384> 630 20G<308.785 325.215> 711 50<255.144 379.237>
+VStem: 192 250<780 792>
 LayerCount: 2
 Fore
 Refer: 95 774 N 1 0 0 1 592 86 2

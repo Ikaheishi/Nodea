@@ -2,7 +2,8 @@ StartChar: Gcaron
 Encoding: 486 486 735
 Width: 701
 VWidth: 0
-Flags: H
+HStem: -9 106<258.354 450.61> 272 103<420 573> 549 101<258.354 450.08> 711 196
+VStem: 25 102<227.667 420.189> 216.5 269<881 898>
 LayerCount: 2
 Fore
 Refer: 158 780 N 1 0 0 1 635.5 122 2

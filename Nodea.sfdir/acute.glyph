@@ -2,7 +2,9 @@ StartChar: acute
 Encoding: 180 180 704
 Width: 245
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 590 198
+VStem: 25 195
 LayerCount: 2
 Fore
 SplineSet

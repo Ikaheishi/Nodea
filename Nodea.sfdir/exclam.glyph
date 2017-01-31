@@ -2,7 +2,9 @@ StartChar: exclam
 Encoding: 33 33 42
 Width: 150
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 100<33.7012 116.299> 630 20G<61.5 88.5>
+VStem: 25 100<8.70117 91.2988 208.701 641.299>
 LayerCount: 2
 Fore
 SplineSet

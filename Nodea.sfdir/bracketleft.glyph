@@ -2,19 +2,21 @@ StartChar: bracketleft
 Encoding: 91 91 58
 Width: 290
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -150 96<121 265> 704 96<121 265>
+VStem: 25 240<-150 -54 704 800> 25 96<-54 704>
 LayerCount: 2
 Fore
 SplineSet
-25 -150 m 1
+25 -150 m 1xe0
  25 800 l 1
  265 800 l 1
- 265 704 l 1
+ 265 704 l 1xe0
  121 704 l 1
- 121 -54 l 1
+ 121 -54 l 1xd0
  265 -54 l 1
  265 -150 l 1
- 25 -150 l 1
+ 25 -150 l 1xe0
 EndSplineSet
 Validated: 1
 EndChar

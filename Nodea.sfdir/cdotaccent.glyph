@@ -2,7 +2,8 @@ StartChar: cdotaccent
 Encoding: 267 267 170
 Width: 527
 VWidth: 0
-Flags: H
+HStem: -19 88<202.027 372.824> 431 84<202.027 372.417> 576 100<244.701 327.299>
+VStem: 25 82<163.126 334.874> 236 100<584.701 667.299>
 LayerCount: 2
 Fore
 Refer: 96 775 N 1 0 0 1 486 -74 2

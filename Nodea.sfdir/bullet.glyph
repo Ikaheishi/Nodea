@@ -2,7 +2,9 @@ StartChar: bullet
 Encoding: 8226 8226 39
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 200 300<215.985 384.015>
+VStem: 150 300<265.985 434.015>
 LayerCount: 2
 Fore
 SplineSet

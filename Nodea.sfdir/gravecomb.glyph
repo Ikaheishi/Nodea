@@ -2,7 +2,9 @@ StartChar: gravecomb
 Encoding: 768 768 54
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 591 196
+VStem: -347 197
 LayerCount: 2
 Fore
 SplineSet

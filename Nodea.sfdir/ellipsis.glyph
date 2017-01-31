@@ -2,7 +2,10 @@ StartChar: ellipsis
 Encoding: 8230 8230 37
 Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 100<8.70117 91.2988 158.701 241.299 308.701 391.299>
+VStem: 0 100<8.70117 91.2988> 150 100<8.70117 91.2988> 300 100<8.70117 91.2988>
+CounterMasks: 1 70
 LayerCount: 2
 Fore
 SplineSet

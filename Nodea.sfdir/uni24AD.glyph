@@ -2,7 +2,8 @@ StartChar: uni24AD
 Encoding: 9389 9389 504
 Width: 1028
 VWidth: 0
-Flags: H
+HStem: 0 21G<366 453> 435 89<513.32 656.987> 486 20G<366 453>
+VStem: 25 88<170.476 481.08> 366 87<0 376.753 469 506> 915 88<170.476 481.08>
 LayerCount: 2
 Fore
 Refer: 60 41 N 1 0 0 1 706 0 2

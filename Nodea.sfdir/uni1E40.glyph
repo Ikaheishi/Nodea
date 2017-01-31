@@ -2,7 +2,9 @@ StartChar: uni1E40
 Encoding: 7744 7744 421
 Width: 670
 VWidth: 0
-Flags: H
+HStem: 0 21G<50 156 514 620> 630 20G<50 168.74 501.26 620> 711 100<293.701 376.299>
+VStem: 50 106<0 461> 285 100<719.701 802.299> 514 106<0 461>
+CounterMasks: 1 1c
 LayerCount: 2
 Fore
 Refer: 96 775 N 1 0 0 1 535 61 2

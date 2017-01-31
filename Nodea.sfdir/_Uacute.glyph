@@ -2,7 +2,8 @@ StartChar: Uacute
 Encoding: 218 218 189
 Width: 562
 VWidth: 0
-Flags: H
+HStem: -10 96<204.601 361.463> 630 20G<50 156 406 512> 711 198
+VStem: 50 106<136.06 650> 261 195 406 106<131.091 650>
 LayerCount: 2
 Fore
 Refer: 53 769 N 1 0 0 1 606 121 2

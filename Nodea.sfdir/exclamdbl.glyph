@@ -2,7 +2,9 @@ StartChar: exclamdbl
 Encoding: 8252 8252 48
 Width: 300
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 100<33.7012 116.299 183.701 266.299> 630 20G<61.5 88.5 211.5 238.5>
+VStem: 25 100<8.70117 91.2988 208.701 641.299> 175 100<8.70117 91.2988 208.701 641.299>
 LayerCount: 2
 Fore
 Refer: 42 33 N 1 0 0 1 150 0 2

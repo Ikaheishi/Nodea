@@ -2,7 +2,9 @@ StartChar: exclamdown
 Encoding: 161 161 700
 Width: 150
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 350 100<33.7012 116.299>
+VStem: 25 100<-191.299 241.299 358.701 441.299>
 LayerCount: 2
 Fore
 SplineSet

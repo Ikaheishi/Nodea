@@ -2,7 +2,8 @@ StartChar: bar
 Encoding: 124 124 40
 Width: 146
 VWidth: 0
-Flags: HW
+Flags: W
+VStem: 25 96<-100 800>
 LayerCount: 2
 Fore
 SplineSet

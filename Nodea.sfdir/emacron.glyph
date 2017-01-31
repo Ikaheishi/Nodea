@@ -2,7 +2,8 @@ StartChar: emacron
 Encoding: 275 275 119
 Width: 572
 VWidth: 0
-Flags: H
+HStem: -10 88<201.887 395.912> 213 85<113 465> 440 84<202.21 371.569> 585 50<161.214 410.786>
+VStem: 161 250<585.214 634.786>
 LayerCount: 2
 Fore
 Refer: 94 772 N 1 0 0 1 311 -90 2

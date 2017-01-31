@@ -2,7 +2,8 @@ StartChar: racute
 Encoding: 341 341 137
 Width: 384
 VWidth: 0
-Flags: H
+HStem: 0 21G<44 131> 435 89<191.32 334.987> 486 20G<44 131> 585 198
+VStem: 44 87<0 376.753 469 506> 182 195
 LayerCount: 2
 Fore
 Refer: 53 769 N 1 0 0 1 527 -5 2

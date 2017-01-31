@@ -2,7 +2,8 @@ StartChar: Imacron
 Encoding: 298 298 123
 Width: 384
 VWidth: 0
-Flags: H
+HStem: 0 106<50 139 245 334> 544 106<50 139 245 334> 711 50<67.2145 316.786>
+VStem: 50 284<0 106 544 650> 67 250<711.214 760.786>
 LayerCount: 2
 Fore
 Refer: 94 772 N 1 0 0 1 217 36 2

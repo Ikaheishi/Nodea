@@ -2,7 +2,10 @@ StartChar: question
 Encoding: 63 63 43
 Width: 450
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 100<183.701 266.299> 500 21G<61.5 88.5> 650 83<158.586 294.138>
+VStem: 25 100<508.701 617.798> 175 100<8.70117 91.2988 208.701 349.009> 325 100<500.919 617.798>
+CounterMasks: 1 1c
 LayerCount: 2
 Fore
 SplineSet

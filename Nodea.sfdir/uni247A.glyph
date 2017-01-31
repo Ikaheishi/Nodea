@@ -2,7 +2,8 @@ StartChar: uni247A
 Encoding: 9338 9338 453
 Width: 1178
 VWidth: 0
-Flags: H
+HStem: 0 21G<433 547.215> 555 95<372 661>
+VStem: 25 88<170.476 481.08> 1065 88<170.476 481.08>
 LayerCount: 2
 Fore
 Refer: 60 41 N 1 0 0 1 856 0 2

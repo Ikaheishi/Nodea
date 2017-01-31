@@ -2,7 +2,8 @@ StartChar: uniFF3D
 Encoding: 65341 65341 596
 Width: 290
 VWidth: 0
-Flags: H
+HStem: -150 96<25 169> 704 96<25 169>
+VStem: 25 240<-150 -54 704 800> 169 96<-54 704>
 LayerCount: 2
 Fore
 Refer: 59 93 N 1 0 0 1 0 0 3

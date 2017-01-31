@@ -2,7 +2,7 @@ StartChar: uniFF3A
 Encoding: 65338 65338 593
 Width: 530
 VWidth: 0
-Flags: H
+HStem: 0 96<203 480> 554 96<50 318>
 LayerCount: 2
 Fore
 Refer: 62 90 N 1 0 0 1 0 0 3

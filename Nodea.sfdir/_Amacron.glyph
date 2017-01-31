@@ -2,7 +2,9 @@ StartChar: Amacron
 Encoding: 256 256 203
 Width: 634
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<50 148.293 479.951 584> 164 96<248 384> 630 20G<308.785 325.215> 711 50<192.214 441.786>
+VStem: 192 250<711.214 760.786>
 LayerCount: 2
 Fore
 Refer: 94 772 N 1 0 0 1 342 36 2

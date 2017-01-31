@@ -2,7 +2,8 @@ StartChar: uni1E76
 Encoding: 7798 7798 349
 Width: 562
 VWidth: 0
-Flags: H
+HStem: -267 196 -10 96<204.601 361.463> 630 20G<50 156 406 512>
+VStem: 50 106<136.06 650> 147 269<-258 -241> 406 106<131.091 650>
 LayerCount: 2
 Fore
 Refer: 162 813 N 1 0 0 1 566 -68 2

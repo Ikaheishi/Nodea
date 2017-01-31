@@ -2,7 +2,8 @@ StartChar: uni1E31
 Encoding: 7729 7729 308
 Width: 426
 VWidth: 0
-Flags: H
+HStem: 0 21G<50 142 267.454 401> 680 20G<50 142> 761 198
+VStem: 50 92<0 163 308 700> 76 195
 LayerCount: 2
 Fore
 Refer: 53 769 N 1 0 0 1 421 171 2

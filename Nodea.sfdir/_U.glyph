@@ -2,7 +2,9 @@ StartChar: U
 Encoding: 85 85 130
 Width: 562
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -10 96<204.601 361.463> 630 20G<50 156 406 512>
+VStem: 50 106<136.06 650> 406 106<131.091 650>
 LayerCount: 2
 Fore
 SplineSet

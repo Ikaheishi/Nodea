@@ -2,7 +2,8 @@ StartChar: Ugrave
 Encoding: 217 217 188
 Width: 562
 VWidth: 0
-Flags: H
+HStem: -10 96<204.601 361.463> 630 20G<50 156 406 512> 711 196
+VStem: 50 106<136.06 650> 105 197 406 106<131.091 650>
 LayerCount: 2
 Fore
 Refer: 54 768 N 1 0 0 1 452 120 2

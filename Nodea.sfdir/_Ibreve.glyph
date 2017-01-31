@@ -2,7 +2,8 @@ StartChar: Ibreve
 Encoding: 300 300 125
 Width: 384
 VWidth: 0
-Flags: H
+HStem: 0 106<50 139 245 334> 544 106<50 139 245 334> 711 50<130.144 254.237>
+VStem: 50 284<0 106 544 650> 67 250<780 792>
 LayerCount: 2
 Fore
 Refer: 95 774 N 1 0 0 1 467 86 2

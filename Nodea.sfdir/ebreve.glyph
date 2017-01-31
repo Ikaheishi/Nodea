@@ -2,7 +2,8 @@ StartChar: ebreve
 Encoding: 277 277 120
 Width: 572
 VWidth: 0
-Flags: H
+HStem: -10 88<201.887 395.912> 213 85<113 465> 440 84<202.21 371.569> 585 50<224.144 348.237>
+VStem: 161 250<654 666>
 LayerCount: 2
 Fore
 Refer: 95 774 N 1 0 0 1 561 -40 2

@@ -2,7 +2,8 @@ StartChar: uni020A
 Encoding: 522 522 223
 Width: 384
 VWidth: 0
-Flags: H
+HStem: 0 106<50 139 245 334> 544 106<50 139 245 334> 761 50<129.763 253.856>
+VStem: 50 284<0 106 544 650> 67 250<730 742>
 LayerCount: 2
 Fore
 Refer: 97 785 N 1 0 0 1 217 86 2

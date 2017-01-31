@@ -2,7 +2,8 @@ StartChar: ocircumflex
 Encoding: 244 244 107
 Width: 572
 VWidth: 0
-Flags: H
+HStem: -19 88<202.027 371.973> 431 84<202.027 371.973> 578 196
+VStem: 25 82<163.126 334.874> 151 269<587 604> 469 78<163.126 334.874>
 LayerCount: 2
 Fore
 Refer: 90 770 N 1 0 0 1 570 -13 2

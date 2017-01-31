@@ -2,7 +2,8 @@ StartChar: uniFF26
 Encoding: 65318 65318 578
 Width: 462
 VWidth: 0
-Flags: H
+HStem: 0 21G<50 156> 272 103<156 412> 544 106<156 412>
+VStem: 50 106<0 272 375 544>
 LayerCount: 2
 Fore
 Refer: 129 70 N 1 0 0 1 0 0 3
