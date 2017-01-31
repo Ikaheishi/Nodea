@@ -1,0 +1,22 @@
+StartChar: longs
+Encoding: 383 383 757
+Width: 275
+VWidth: 0
+Flags: HW
+HStem: -10 85<158.293 245.109> 680 20G<50 142>
+VStem: 50 92<90.4062 700>
+LayerCount: 2
+Fore
+SplineSet
+142 546 m 2
+ 142 0 l 1
+ 50 0 l 1
+ 50 556 l 2
+ 50 626 94 710 179 710 c 3
+ 229 710 284 698 324 641 c 1
+ 263 596 l 1
+ 246 617 216 625 192 625 c 3
+ 167 625 142 596 142 546 c 2
+EndSplineSet
+Validated: 1
+EndChar
